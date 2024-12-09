@@ -4,12 +4,15 @@ When you join Botanica, you are given a starting amount of money to spend on see
 
 Screenshot/Logo: A screenshot of your app or a logo.
 
-Your app’s name: Include a description of your app and its functionality. Background info about the app and why you built it is a nice touch.
-
 Getting started: This section should include a link to your deployed app, a link to your planning materials, and a link to the back-end repository.
+(deployed app link here)
+https://trello.com/b/v8iBOFxH/botanica
+https://github.com/Rhiannon-OBrien-Coder/Botanica-Backend
 
 Attributions: This section should include links to any external resources (such as libraries or assets) you used to develop your application that require attribution. You can exclude this section if it does not apply to your application.
 
 Technologies used: List the principal technologies used by your application, for example: Python, JavaScript, and any major frameworks or libraries.
+Flask
+React
 
 Next steps: Planned future enhancements (stretch goals).
